@@ -1,0 +1,8 @@
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC"
+"1","1","C1","4.7uF","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","C23733"
+"2","12","C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C13, C15","1uF","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","C52923"
+"3","2","C12, C14","2.2uF","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C23630"
+"4","1","D1","D","Device:D_Schottky_Small","Diode_SMD:D_SOD-123","~","C8598"
+"5","1","J1","Conn_01x30_Female","Connector:Conn_01x30_Female","Connector_FFC-FPC:Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal","~","C262294"
+"6","1","J2","Conn_01x08_Female","Connector:Conn_01x08_Female","Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical","~",""
+"7","2","C16, C17","100nF","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","C1525"
