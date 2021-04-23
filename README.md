@@ -37,6 +37,6 @@ Once all your parts have arrived, you'll need to insert the display.
 
 #### Connecting the display
 
-Pull up on the lever, and insert the display into the connector with the gold pins facing away from the PCB. Once it's all the way in, push the lever back down to lock it in place.
+Pull up on the FFC connector lever, and insert the display into the connector with the gold pins facing away from the PCB. Once it's all the way in, push the lever back down to lock it in place.
 
 Now your module is all ready to go. You may want to use a bit of tape or adhesive to make sure the display sticks in place.
